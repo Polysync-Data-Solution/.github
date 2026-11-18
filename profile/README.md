@@ -1,7 +1,8 @@
 # Polysync
 
-Polysync is a multi-cloud orchestration platform for data and AI workloads. It connects the platforms a
-team already runs, so they share one schedule, one cross-platform dependency graph and one run history.
+Polysync is a data pipeline orchestration service for Azure-first teams. It schedules and triggers the
+jobs they already have in Azure Data Factory, Databricks, Microsoft Fabric and other Azure data and AI
+services in the right order, from one dependency graph. AWS and Google Cloud jobs can join the same graph.
 
 - **Website:** https://www.polysync.com.au
 - **Documentation:** https://www.polysync.com.au/documentation
